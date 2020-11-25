@@ -1,0 +1,24 @@
+{
+  "sociallinks": [
+    {
+      "title": "GitHub",
+      "link": "https://github.com/luisdibdin",
+      "icon": "github"
+    },
+    {
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/luis-dibdin-514590157/",
+      "icon": "linkedin"
+    },
+    {
+      "title": "Instagram",
+      "link": "https://www.instagram.com/luisdibdin/",
+      "icon": "instagram"
+    },
+    {
+      "title": "Spotify",
+      "link": "https://open.spotify.com/user/luisdibdin",
+      "icon": "spotify"
+    }
+  ]
+}
