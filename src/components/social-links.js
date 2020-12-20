@@ -8,10 +8,11 @@ import {
   faLinkedin,
   faSpotify,
 } from "@fortawesome/free-brands-svg-icons"
+import { faUtensils } from "@fortawesome/free-solid-svg-icons"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import LinkData from "../constants/social-links.json"
 
-library.add(faInstagram, faGithub, faLinkedin, faSpotify)
+library.add(faInstagram, faGithub, faLinkedin, faSpotify, faUtensils)
 
 const SocialLinks = ({ iconSize, maxWidth, clicked }) => {
   return (
@@ -25,7 +26,7 @@ const SocialLinks = ({ iconSize, maxWidth, clicked }) => {
               color="primary.red"
               _hover={{ color: "primary.midBlue" }}
               aria-label={link.title}
-              icon={<FontAwesomeIcon icon={["fab", link.icon]} size={iconSize} />}
+              icon={<FontAwesomeIcon icon={[link.type, link.icon]} size={iconSize} />}
               onClick={clicked}
             />
           </Link>

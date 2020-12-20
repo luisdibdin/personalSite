@@ -3,22 +3,32 @@
     {
       "title": "GitHub",
       "link": "https://github.com/luisdibdin",
+      "type": "fab",
       "icon": "github"
     },
     {
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/luis-dibdin-514590157/",
+      "type": "fab",
       "icon": "linkedin"
     },
     {
       "title": "Instagram",
       "link": "https://www.instagram.com/luisdibdin/",
+      "type": "fab",
       "icon": "instagram"
     },
     {
       "title": "Spotify",
       "link": "https://open.spotify.com/user/luisdibdin",
+      "type": "fab",
       "icon": "spotify"
+    },
+    {
+      "title": "Food Insta",
+      "link": "https://www.instagram.com/sunset.warrior",
+      "type": "fas",
+      "icon": "utensils"
     }
   ]
 }
