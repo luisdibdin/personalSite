@@ -8,7 +8,7 @@ const Navbar = () => {
     <Flex
       bg="primary.darkBlue"
       w="100%"
-      h="80px"
+      h={["60px", "80px"]}
       justify="center"
       align="center"
     >
