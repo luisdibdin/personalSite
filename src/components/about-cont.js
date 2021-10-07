@@ -38,9 +38,10 @@ const AboutCont = () => {
             Flutter, and data analysis and machine learning in Python.
           </Text>
           <Text>
-            While I thoroughly enjoy software development, I am looking to
-            pursue a career in data science as I feel this perfectly combines my
-            love of maths with programming to create impactful results.
+            I thoroughly enjoy Software Development and Data Science. I am constantly
+            striving to improve in these fields by learning new technologies,
+            collaborating with others, and refining my programming skills to produce
+            clean and tested code.
           </Text>
           <Heading size="subsub">This Site</Heading>
           <Text>
