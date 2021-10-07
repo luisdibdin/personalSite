@@ -37,8 +37,8 @@ const About = () => {
         >
           <Heading size="main">I'm Luis Dibdin,</Heading>
           <Text>
-            I am a 22 year old aspiring Data Scientist and recent graduate with
-            a MSc in Computer Science and BSc (Hons) in Mathematics.
+            I am a 23 year old aspiring Data Analyst at the Office for National Statistics 
+            and recent graduate with an MSc in Computer Science and BSc (Hons) in Mathematics.
           </Text>
           <Link
             style={{ width: "inherit" }}
