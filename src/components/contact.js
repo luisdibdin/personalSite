@@ -19,10 +19,7 @@ const Contact = ({ backgroundColor }) => {
             <Text>
               Please feel free to get in touch with me or follow me on any of
               the following social media. If you want to get hold of me either
-              use the form to the right or send me an email at:{" "}
-              <Link variant="inText" href="mailto:luisdibdin@icloud.com">
-                luisdibdin@icloud.com
-              </Link>.
+              use the form to the right.
             </Text>
             <SocialLinks iconSize="3x" maxWidth="300px" />
           </Box>

@@ -37,13 +37,12 @@ const About = () => {
         >
           <Heading size="main">I'm Luis Dibdin,</Heading>
           <Text>
-            I am a 25 year old DevSecOps Engineer at the Office for National Statistics with
-            a background in data science and engineering. I am a recent graduate with an MSc 
-            in Computer Science and BSc (Hons) in Mathematics.
+            I am a 26 year old Platform Engineer at the UK Health Security Agency. I have previously
+            worked as a Data Scientist at the Office for National Statistics.
           </Text>
           <Link
             style={{ width: "inherit" }}
-            href={downloadUrl.node.publicURL}
+            href={"https://luisdibdin.uk/404"}
             target="_blank"
           >
             <Button variant="main" _hover={{ bg: "primary.darkBlue" }}>
